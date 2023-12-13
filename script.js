@@ -7,7 +7,7 @@ function firstChar(text) {
 			}
 			
 		}
-	return " ";
+	return "";
 }    
 
 // Do not change the code below
